@@ -6,8 +6,9 @@ Delphi (Improving OOP and MVC) </br>
 SQL </br>
 Qt C++ </br>
 
-Hands on
+Hands on </br>
   React Native
+</br>
 
-Studying
+Studying </br>
   NodeJs
